@@ -94,7 +94,7 @@ This model helps in determining the appropriate return for the risk taken.
 ## 4. Ranking and Investment Allocation :  
 Companies were ranked and investments allocated based on their metrics are as follows  
 
-![image](https://github.com/user-attachments/assets/c244ef49-fd83-4d88-b6f7-caacba4e2726)
+![image](https://github.com/user-attachments/assets/7a43ed56-d93a-4094-8637-5a36256d0ed0)
 
 
 
